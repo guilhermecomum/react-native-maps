@@ -6,7 +6,7 @@
 //
 
 #import <GoogleMaps/GoogleMaps.h>
-#import <React/RCTBridge.h>
+#import <RCTBridge.h>
 #import "AIRGMSMarker.h"
 #import "AIRGoogleMap.h"
 #import "AIRGoogleMapCallout.h"

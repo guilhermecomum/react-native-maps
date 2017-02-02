@@ -6,8 +6,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <React/RCTComponent.h>
-#import <React/RCTConvert+MapKit.h>
+#import <RCTComponent.h>
+#import <RCTConvert+MapKit.h>
 #import <GoogleMaps/GoogleMaps.h>
 #import <MapKit/MapKit.h>
 #import "AIRGMSMarker.h"

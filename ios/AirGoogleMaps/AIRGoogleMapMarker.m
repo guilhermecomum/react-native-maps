@@ -7,8 +7,8 @@
 
 #import "AIRGoogleMapMarker.h"
 #import <GoogleMaps/GoogleMaps.h>
-#import <React/RCTImageLoader.h>
-#import <React/RCTUtils.h>
+#import <RCTImageLoader.h>
+#import <RCTUtils.h>
 #import "AIRGMSMarker.h"
 #import "AIRGoogleMapCallout.h"
 #import "DummyView.h"
